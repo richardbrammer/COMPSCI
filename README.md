@@ -22,8 +22,7 @@ This is meant for **new software engineers** or those switching from
 software/web development to software engineering (where computer science knowledge is required). If you have
 many years of experience and are claiming many years of software engineering experience, expect a harder interview.
 
-If you have many years of software/web development experience, note that large software companies like Google, Amazon,
-Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
+If you have many years of software/web development experience, note that large software companies like Google, Amazon, Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
 
 If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
 
@@ -168,8 +167,8 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [x] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## About Video Resources
 
@@ -1021,7 +1020,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] 32 bit: [IEEE754 32-bit floating point binary (video)](https://www.youtube.com/watch?v=50ZYcZebIec)
 
 - ### Unicode
-    - [ ] [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets]( http://www.joelonsoftware.com/articles/Unicode.html)
+    - [x] [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets]( http://www.joelonsoftware.com/articles/Unicode.html)
     - [ ] [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
 
 - ### Endianness
